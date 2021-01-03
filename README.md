@@ -1,1 +1,2 @@
-# CSC148-Projects-
+Blocky is a game with simple moves on a simple structure. But, like a Rubik’s Cube, it is quite challenging to play. The game is played on a randomly-generated game board made of squares of four different colours.
+Each player has their own goal that they are working towards, such as creating the largest connected “blob” of blue. After each move, the player sees their score, which is determined by how well they have achieved their goal and which moves they have made. The game continues for a certain number of turns, and the player with the highest score at the end is the winner. Next, let’s look in more detail at the rules of the game and the different ways it can be configured for play.
